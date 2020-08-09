@@ -1,5 +1,5 @@
 # Welcome
-Hi welcome to my profile.
+Hi welcome to my profile. I know PHP, javascript and currently learning Java.
 <br>
 There really isn't much here and most of my repos are private.
 # Projects I'm working on
