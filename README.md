@@ -3,9 +3,10 @@ Hi welcome to my profile. I know PHP, javascript and currently learning Java.
 <br>
 There really isn't much here and most of my repos are private.
 # Projects I'm working on
-SpaceMy is a project that aims to bring back SpaceMy's 2008 era
+<a href="https://github.com/cube-builder/Essentials4Anarchy">Essentials4Anarchy</a>
 <br>
-https://github.com/spacemy2/spacemy-sourcecode
+A fork of Essentials designed for anarchy servers.
+<br>
 <br>
 This is more of a side project as I have other things to work on at the moment.
 # Contact Information
