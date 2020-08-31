@@ -7,11 +7,9 @@ There really isn't much here and most of my repos are private.
 <br>
 A fork of Essentials designed for anarchy servers.
 <br>
-<br>
-This is more of a side project as I have other things to work on at the moment.
 # Contact Information
 cubebuilder#6741 on Discord
 <br>
-admin@5b5t.ga - Email.
+5b5t.ga@protonmail.com
 # Website
 https://cubebuilder.cf (currently down)
