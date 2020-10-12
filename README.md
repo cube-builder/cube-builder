@@ -21,7 +21,11 @@ You can contact me at these contacts
 <br>
 **Please do not contact me to code or create a project for you. I am very busy at the moment and I have people who have already paid me to work on their projects**
 <br>
+<br>
 Discord: cubebuilder#4344 (Quicker way to contact)
+<br>
 <br>
 Public Email: 5b5t.ga@protonmail.com (please contact on discord instead I check my email from time to time)
 <br>
+<br>
+<!--- if you're reading this i'm sorry ---!>
