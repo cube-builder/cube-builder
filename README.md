@@ -9,6 +9,7 @@ I know JavaScript, PHP and Java.
 <br>
 <br>
 [![cubebuilder's github stats](https://github-readme-stats.vercel.app/api?username=cubebuilder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubebuilder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 # Contact
 You can contact me at these contacts
