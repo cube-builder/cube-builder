@@ -2,7 +2,9 @@
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment)
 <br>
 I know JavaScript, PHP and Java.
+<br>
 [![cubebuilder's github stats](https://github-readme-stats.vercel.app/api?username=cubebuilder)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 # Contact
 You can contact me at these contacts
 **Please do not contact me to code or create a project for you. I am very busy at the moment and I have people who have already paid me to work on their projects**
