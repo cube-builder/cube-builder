@@ -2,10 +2,10 @@
 ![](https://komarev.com/ghpvc/?username=cube-builder)
 <br>
 <br>
-I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment)
+I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment) I usually create plugins for Minecraft Servers.
 <br>
 <br>
-I also help develop <a href="https://github.com/xeraplugins/xerabungeequeue/">XeraBungeeQueue</a> I was a former developer for Xera but I still help with the queue plugin.
+I also help develop <a href="https://github.com/xeraplugins/xerabungeequeue/">XeraBungeeQueue</a> (A queue plugin for Minecraft servers) I was a former developer for Xera but I still help with the queue plugin.
 <br>
 <br>
 I know JavaScript, PHP and Java.
