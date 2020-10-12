@@ -1,6 +1,5 @@
-<div align="center">
-# Hi I'm cubebuilder
-  </div>
+<center>
+</center>
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment)
 <br>
 <br>
