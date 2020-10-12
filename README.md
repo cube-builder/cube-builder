@@ -8,8 +8,10 @@ I also help develop <a href="https://github.com/xeraplugins/xerabungeequeue/">Xe
 I know JavaScript, PHP and Java.
 <br>
 <br>
-[![cubebuilder's github stats](https://github-readme-stats.vercel.app/api?username=cubebuilder)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cubebuilder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![cubebuilder's github stats](https://github-readme-stats.vercel.app/api?username=cube-builder)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cube-builder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 # Contact
 You can contact me at these contacts
