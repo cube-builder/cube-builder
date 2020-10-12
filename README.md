@@ -1,9 +1,12 @@
 # Hi I'm cubebuilder
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment)
 <br>
+<br>
 I also help develop <a href="https://github.com/xeraplugins/xerabungeequeue/">XeraBungeeQueue</a> I was a former developer for Xera but I still help with the queue plugin.
 <br>
+<br>
 I know JavaScript, PHP and Java.
+<br>
 <br>
 [![cubebuilder's github stats](https://github-readme-stats.vercel.app/api?username=cubebuilder)](https://github.com/anuraghazra/github-readme-stats)
 <br>
