@@ -1,5 +1,5 @@
 # Hi! I'm cubebuilder!
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=cube-builder)
 <br>
 <br>
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment)
