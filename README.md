@@ -1,4 +1,4 @@
-# Hi! I'm cubebuilder!
+# Hi! 👋 I'm cubebuilder!
 ![](https://komarev.com/ghpvc/?username=cube-builder)
 <br>
 <br>
