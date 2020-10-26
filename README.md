@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=cube-builder)
 <br>
 <br>
+# xeramc.org
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment) I usually create Spigot plugins for Minecraft Servers.
 <br>
 <br>
@@ -25,7 +26,7 @@ You can contact me at these contacts
 Discord: cubebuilder#4344 (Quicker way to contact)
 <br>
 <br>
-Public Email: 5b5t.ga@protonmail.com (please contact on discord instead I check my email from time to time)
+Public Email: .
 <br>
 <br>
 <!--- if you're reading this i'm sorry ---!>
