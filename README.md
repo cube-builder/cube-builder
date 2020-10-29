@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=cube-builder)
 <br>
 <br>
-# xeramc.org
 I code stuff for fun. Currently I do not have any active projects at the moment (as I am busy at the moment) I usually create Spigot plugins for Minecraft Servers.
 <br>
 <br>
