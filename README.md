@@ -1,7 +1,10 @@
 # Hello
-I am cubebuilder. I do nothing in life.
-<br>
-I know php, javascript, html, css and java. most of my projects are not public and are closed source.
+I am cubebuilder and I code stuff when I'm bored.
 <br> 
-# contact
-you don't
+I know PHP, JavaScript (some nodejs aswell), HTML, CSS and Java (which I don't do a lot anymore).
+<br>
+I am also learning GoLang.
+# Contact
+I will not work for your project considering I do not have time and have other stuff to do.
+<br>
+You may contact me on Discord at: cubebuilder#6243.
