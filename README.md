@@ -7,4 +7,4 @@ I am also learning GoLang.
 # Contact
 I will not work for your project considering I do not have time and have other stuff to do.
 <br>
-You may contact me on Discord at: cubebuilder#6243.
+
