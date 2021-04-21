@@ -14,5 +14,5 @@ Most of my projects are private but some are open source.
 If you would like me to work on your project I cannot anymore as I am busy, however if I happen to have free time I will update this and I will be able to work on whatever.
 <br>
 # My websites
-* http://cubebuilder.me (Still work in progress)
+* http://cubebuilder.me - Still work in progress
 * https://cube-builder.github.io/shit-anarchy-servers/ - Website containing a list of horrible minecraft anarchy servers.
