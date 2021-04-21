@@ -1,4 +1,4 @@
-# Hello
+# Hello There
 I am cubebuilder. I am developer and a former Spigot Plugin Developer (I do not create spigot plugins anymore lol)
 <br>
 I know PHP, HTML, CSS, JavaScript, Java and currently learning GoLang.
@@ -6,12 +6,11 @@ I know PHP, HTML, CSS, JavaScript, Java and currently learning GoLang.
 Most of my projects are private but some are open source.
 <br>
 <br>
-# Contact
+# Contact & My Websites
 * Matrix: @cubebuilder:buyvm.net (faster response time)
 * E-mail: cub3builder(at)protonmail dot com (slower response time)
 * Discord: I do not talk to people on Discord anymore. Please contact me on either Matrix or my email.
 <br>
-# My websites
 * http://cubebuilder.me - Still work in progress
 * https://cube-builder.github.io/shit-anarchy-servers/ - Website containing a list of horrible minecraft anarchy servers.
 <br>
